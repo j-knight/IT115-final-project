@@ -4,4 +4,4 @@ This is a README.md file.
 
 ## Contributors
 
-*John Knight
+* John Knight
